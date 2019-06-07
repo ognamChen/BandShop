@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WooCommerce Cart\n"
 "POT-Creation-Date: 2019-03-12 23:48+0530\n"
-"PO-Revision-Date: 2019-06-03 15:31+0000\n"
+"PO-Revision-Date: 2019-06-06 10:49+0000\n"
 "Last-Translator: ognam <program.ognam@gmail.com>\n"
 "Language-Team: 繁體中文\n"
 "Language: zh_TW\n"
@@ -110,7 +110,7 @@ msgstr ""
 #: admin/settings/class-xoo-wsc-general-settings.php:368
 #: public/partials/xoo-wsc-footer.php:11
 msgid "View Cart"
-msgstr ""
+msgstr "查看購物車"
 
 #: admin/settings/class-xoo-wsc-general-settings.php:384
 #: public/partials/xoo-wsc-footer.php:12
